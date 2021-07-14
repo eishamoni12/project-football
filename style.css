@@ -5,7 +5,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
 /* common Style */
 body {
-  font-family: Poppins;
+  font-family: "Poppins", sans-serif;
 }
 /* Banner Style */
 .banner {
@@ -24,7 +24,7 @@ body {
 .banner-left h1 {
   margin: 30px 0px;
   font-size: 64px;
-  width: 400px;
+  width: 429px;
   color: white;
 }
 .button-wrap a {
