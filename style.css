@@ -13,7 +13,7 @@ body {
 }
 .banner-container {
   padding: 64px 0px 86px 0px;
-  margin-left: 190px;
+  margin-left: 145px;
   display: flex;
   flex-wrap: wrap;
 }
@@ -46,7 +46,7 @@ body {
   padding: 5px 0px 0px 10px;
 }
 .banner-right img {
-  width: 87%;
+  width: 79%;
 }
 .banner-right {
   width: 600px;
@@ -59,7 +59,7 @@ body {
 }
 /* Player Gallery */
 .gallery-bg {
-  padding: 70px 108px 130px 195px;
+  padding: 70px 108px 130px 125px;
 }
 .gallery-container {
   display: flex;
@@ -86,7 +86,7 @@ body {
 }
 /* more player allery */
 .more-gallery {
-  margin-left: 155px;
+  margin-left: 100px;
   margin-bottom: 100px;
 }
 .heading h1 {
